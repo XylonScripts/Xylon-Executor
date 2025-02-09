@@ -1,1 +1,1 @@
-Testing 
+Download in releases
